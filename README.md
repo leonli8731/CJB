@@ -66,8 +66,3 @@ clone-bonny/
 └── vite.config.js         # Vite configuration
 ```
 
-### License
-
-```sh
-![License](https://img.shields.io/badge/License-MIT-green)
-```
